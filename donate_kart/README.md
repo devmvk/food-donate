@@ -1,6 +1,6 @@
 # donate_kart
 
-A new Flutter project.
+A hobby project that helps user to share food
 
 ## Getting Started
 
